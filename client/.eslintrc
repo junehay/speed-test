@@ -5,7 +5,6 @@
     "plugin:@typescript-eslint/recommended" // Uses the recommended rules from @typescript-eslint/eslint-plugin
   ],
   "parserOptions": {
-    "project": "client/tsconfig.json",
     "ecmaVersion": 2018,
     "sourceType": "module"
   },
